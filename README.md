@@ -8,4 +8,4 @@ By the end of Term 1B (Sep 2025), CPU should have ability to fetch and run instr
 
 Currently it is a ALU with ability to Add, Subtract, AND, and compute less than operator.
 
-Please find the simulation on circuit verse. 
+Please find the simulation on [circuit verse](https://circuitverse.org/users/210235/projects/4-bit-4-function-cpu-project).
